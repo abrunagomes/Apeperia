@@ -1,2 +1,2 @@
-# projeto-apeperia
-Arquivos do projeto para a Apeperia
+# Projeto Apeperia
+The Apeperia Project is a landing page built with HTML and CSS using responsive development practices.
